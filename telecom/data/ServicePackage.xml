@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ServicePackageList> 
+  <ServicePackage typeId="1"> 
+    <typeName>宽频</typeName>
+    <serviceName>broadband</serviceName>
+  </ServicePackage>  
+  <ServicePackage typeId="2"> 
+    <typeName>电视</typeName>  
+    <serviceName>television</serviceName>
+  </ServicePackage>  
+  <ServicePackage typeId="3"> 
+    <typeName>电话</typeName>  
+    <serviceName>telephone</serviceName>
+  </ServicePackage>  
+</ServicePackageList>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="telecom"
+  id="myeclipse.1537447634687"
+  context-root="/telecom"
+  j2ee-spec="6.0"
+  archive="telecom.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

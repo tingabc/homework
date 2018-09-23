@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<customerList> 
+  <customer cid="001" account="abc"> 
+  	<password>root</password>
+    <name>Alice</name>  
+    <phone>134222223333</phone>  
+    <address>广东省广州市天河区</address>
+    <oIds>001,002,003</oIds> 
+  </customer>  
+  <customer cid="002" account="bcd">
+  	<password>root</password>
+    <name>eric</name>  
+    <phone>134222225555</phone>  
+    <address>广东省广州市花都区</address>
+    <oIds>004</oIds>  
+  </customer>  
+</customerList>

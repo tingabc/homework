@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<orderDetailList> 
+  <orderDetail odid="1" oId="1"> 
+    <detailDate>2018.09.20</detailDate>  
+    <typeId>1</typeId>  
+    <pId>1</pId>  
+    <cost>1080</cost> 
+  </orderDetail>  
+  <orderDetail odid="2" oId="1"> 
+    <detailDate>2018.09.20</detailDate>  
+    <typeId>2</typeId>  
+    <pId>2</pId>  
+    <cost>1080</cost> 
+  </orderDetail>  
+  <orderDetail odid="3" oId="1"> 
+    <detailDate>2018.09.20</detailDate>  
+    <typeId>3</typeId>  
+    <pId>1</pId>  
+    <cost>1080</cost> 
+  </orderDetail>  
+  <orderDetail odid="4" oId="2"> 
+    <detailDate>2018.08.12</detailDate>  
+    <typeId>1</typeId>  
+    <pId>3</pId>  
+    <cost>1080</cost> 
+  </orderDetail>  
+  <orderDetail odid="5" oId="2"> 
+    <detailDate>2018.08.25</detailDate>  
+    <typeId>2</typeId>  
+    <pId>3</pId>  
+    <cost>1080</cost> 
+  </orderDetail>  
+  <orderDetail odid="6" oId="3"> 
+    <detailDate>2018.07.21</detailDate>  
+    <typeId>2</typeId>  
+    <pId>1</pId>  
+    <cost>1080</cost> 
+  </orderDetail>  
+  <orderDetail odid="7" oId="3"> 
+    <detailDate>2018.07.07</detailDate>  
+    <typeId>3</typeId>  
+    <pId>2</pId>  
+    <cost>1080</cost> 
+  </orderDetail>  
+  <orderDetail odid="8" oId="4"> 
+    <detailDate>2018.09.12</detailDate>  
+    <typeId>1</typeId>  
+    <pId>3</pId>  
+    <cost>1080</cost> 
+  </orderDetail>  
+  <orderDetail odid="9" oId="5"> 
+    <detailDate>2018.09.12</detailDate>  
+    <typeId>3</typeId>  
+    <pId>1</pId>  
+    <cost>1080</cost> 
+  </orderDetail>  
+  <orderDetail odid="10" oId="3">
+    <detailDate>2018.09.21</detailDate>
+    <typeId>2</typeId>
+    <pId>2</pId>
+    <cost>3000</cost>
+  </orderDetail>
+</orderDetailList>

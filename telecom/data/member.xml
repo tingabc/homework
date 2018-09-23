@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<memberList> 
+  <member mid="001"> 
+    <mname>优酷会员</mname>  
+  </member>  
+  <member mid="002"> 
+    <mname>爱奇艺会员</mname>  
+  </member>  
+  <member mid="003">
+    <mname>腾讯会员</mname>
+  </member>
+</memberList>

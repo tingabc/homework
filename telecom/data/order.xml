@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<orderList> 
+  <order oid="001"> 
+    <cid>001</cid>  
+    <oDate>2018.09</oDate>  
+    <odId>001,002,003</odId>  
+    <totalcost>3240</totalcost> 
+  </order>  
+  <order oid="002"> 
+    <cid>001</cid>  
+    <oDate>2018.08</oDate>  
+    <odId>004,005</odId>  
+    <totalcost>2160</totalcost> 
+  </order>  
+  <order oid="003"> 
+    <cid>001</cid>  
+    <oDate>2018.07</oDate>  
+    <odId>006,007</odId>  
+    <totalcost>2160</totalcost> 
+  </order>  
+  <order oid="004"> 
+    <cid>002</cid>  
+    <oDate>2018.09</oDate>  
+    <odId>008</odId>  
+    <totalcost>1080</totalcost> 
+  </order>  
+  <order oid="005"> 
+    <cid>003</cid>  
+    <oDate>2018.09</oDate>  
+    <odId>9</odId>  
+    <totalcost>3000</totalcost> 
+  </order>  
+</orderList>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<broadbandList> 
+  <broadband id="001"> 
+    <name>12G套餐</name>  
+    <speed>12G/s</speed>  
+    <cost>132</cost> 
+  </broadband>  
+ <broadband id="002"> 
+    <name>20G套餐</name>  
+    <speed>20G/s</speed>  
+    <cost>135</cost> 
+  </broadband> 
+  <broadband id="003"> 
+    <name>50G套餐</name>  
+    <speed>50G/s</speed>  
+    <cost>140</cost> 
+  </broadband>
+  <broadband id="004"> 
+    <name>100G套餐</name>  
+    <speed>100G/s</speed>  
+    <cost>165</cost> 
+  </broadband>
+  <broadband id="005"> 
+    <name>200G套餐</name>  
+    <speed>200G/s</speed>  
+    <cost>190</cost> 
+  </broadband>  
+</broadbandList>

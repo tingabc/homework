@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<televisionList> 
+  <television id="1"> 
+    <name>免费套餐</name>  
+    <cost>0</cost>  
+    <introduction>可以收看所有不收费电视台</introduction>
+  </television>  
+  <television id="2"> 
+    <name>收费套餐1</name>  
+    <cost>50</cost>  
+    <introduction>可以收看第一个收费电视台</introduction>
+  </television>  
+  <television id="3">
+    <name>收费套餐2</name>
+    <cost>100</cost>
+    <introduction>可以收看所有收费电视台</introduction>
+  </television>
+</televisionList>

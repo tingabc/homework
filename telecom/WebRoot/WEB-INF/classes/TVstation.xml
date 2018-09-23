@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TVstationList> 
+  <TVstation TVId="1"> 
+    <TVname>CCTV-1</TVname>  
+    <isfree>0</isfree>  
+    <introduction>这里是中央一台</introduction>
+  </TVstation>  
+  <TVstation TVId="2"> 
+    <TVname>CCTV-2</TVname>  
+    <isfree>0</isfree>  
+    <introduction>这里是中央二台</introduction>
+  </TVstation>  
+  <TVstation TVId="3">
+    <TVname>CCTV-3</TVname>
+    <isfree>0</isfree>
+    <introduction>这里是中央三台</introduction>
+  </TVstation>
+  <TVstation TVId="4">
+    <TVname>嘉佳卡通</TVname>
+    <isfree>1</isfree>
+    <introduction>这里是嘉佳卡通</introduction>
+  </TVstation>
+  <TVstation TVId="5">
+    <TVname>优漫卡通</TVname>
+    <isfree>1</isfree>
+    <introduction>这里是优漫卡通</introduction>
+  </TVstation>
+</TVstationList>

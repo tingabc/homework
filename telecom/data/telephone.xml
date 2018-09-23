@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<telephoneList> 
+  <telephone id="1">
+  	<name>青春套餐</name> 
+    <time>300</time>  
+    <data>20</data>  
+    <menberIds>1</menberIds>
+  </telephone>  
+  <telephone id="2">
+  	<name>飞享套餐</name> 
+    <time>500</time>  
+    <data>50</data>  
+    <menberIds>1,2</menberIds>
+  </telephone>  
+  <telephone id="3">
+  	<name>天王套餐</name> 
+    <time>700</time>
+    <data>100</data>
+    <menberIds>1,2,3</menberIds>
+  </telephone>
+</telephoneList>
